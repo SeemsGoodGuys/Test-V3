@@ -2127,10 +2127,10 @@ end)
 --------------------------------------------------------------------
 local DarkraiX = loadstring(game:HttpGet("https://raw.githubusercontent.com/zeroscgaming/zeroscgaming/main/RDE.lib/Dark%20UI", true))()
 
-local Library = DarkraiX:Window("FriezGG","Blox-Fruit","RightAlt",Enum.KeyCode.RightControl);
+local Library = DarkraiX:Window("Friez Scripts","Blox-Fruit","RightAlt",Enum.KeyCode.RightControl);
 
 --------------------------------------------------------------------
-local Main = Library:AddTab("Menu Farm","6026568198")
+local Main = Library:AddTab("Auto Farm","6026568198")
 local auto = Library:AddTab("Auto Item","6026568198")
 local Combat = Library:AddTab("Player","7251993295")
 local Stats = Library:AddTab("Stats","7040410130")
